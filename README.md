@@ -10,7 +10,7 @@ This repository documents hands-on solutions to broken toolchains, defensive inp
 
 | Project / Case Study | Domain / Stack | Key Techniques & Focus Areas | Upstream / Reference |
 | :--- | :--- | :--- | :--- |
-| [`word-apa7-engine-patch`](./word-apa7-engine-patch/) | XML, XSLT 1.0, Office Open XML | Defensive URI normalization, string evaluation, legacy engine modernization | https://github.com/gjungclas/APA7-references-word |
+| [`word-apa7-engine-patch`](./word-apa7-engine-patch/) | XML, XSLT 1.0, Office Open XML | Defensive URI normalization, string evaluation, legacy engine modernization | [Upstream PR](https://github.com/iamphasm/APA7-references-word/pull/1) |
 
 ---
 
